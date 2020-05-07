@@ -123,5 +123,5 @@ files:
     print("{} g of coffee beans".format(beans_needed))
   learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/368/implement
-status: Failed
+status: Solved
 record: 3
